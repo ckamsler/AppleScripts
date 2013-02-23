@@ -13,4 +13,4 @@ Full Screen: control ⌘  ↑
 
 Left Screen: control ⌘  ←
 
-Right Screen:control ⌘a →
+Right Screen: control ⌘  →
