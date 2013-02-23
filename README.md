@@ -10,5 +10,7 @@ Combine with FastScripts for easy keyboard shortcuts
 Mimic the Aerosnap keyboard feature found on  Windows 7/8. In FastScripts I  use:
   
 Full Screen: control ⌘  ↑
-Left Screen: control ⌘a ←
+
+Left Screen: control ⌘  ←
+
 Right Screen:control ⌘a →
